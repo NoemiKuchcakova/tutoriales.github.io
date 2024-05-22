@@ -1,0 +1,162 @@
+/*code CSS pour mon site pour l'espagnol */
+body {
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  letter-spacing: 1px;
+  font-size: 13px;
+  margin: 0px;
+  padding: 0px;
+  background-color: #F6F2DD;
+}
+.div1{
+    background-image: url("prairie1.jpg");
+   /* background-size: 100%;*/
+   background-size: 100%;
+}
+
+.div3{
+    background-image: url("prairie2.jpg");
+   /* background-size: 100%;*/
+   background-size: 100%;
+}
+
+.div4{
+    background-image: url("prairie3.jpg");
+   /* background-size: 100%;*/
+   background-size: 100%;
+}
+
+
+.div5{
+    background-image: url("prairie5.jpg");
+   /* background-size: 100%;*/
+   background-size: 100%;
+}
+h1{
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: 500;
+    text-align: center;
+    word-spacing: 4px;
+    padding-top: 10px;
+}
+
+header{
+    height: 80px;
+    padding: 10px;
+    background-color: #103700;
+    color: white;
+}
+
+footer{
+    color: #FFF;
+    text-align: center;
+    line-height: 30px;
+    padding: 10px;
+    height: 100px;
+    background-color: #103700;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+nav{
+    width: 100%;
+    background-color: #103700;
+}
+
+nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav li{
+   float: left;
+   list-style: none;
+}
+
+nav a{
+    display: inline-block;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+.table{
+    display: table;
+    margin: 0 auto;
+}
+
+.menu:hover{
+    text-decoration: underline;
+}
+
+.menu_{
+    text-decoration: underline;
+}
+
+.div2{
+    padding: 30px;
+    height: 220px;
+}
+.p1{
+    width: 45%;
+    float: left;
+    font-size: 15px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.p2{
+     width: 45%;
+    float: right;
+    font-size: 15px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+
+
+
+/*materiales*/
+
+img{
+    height: 200px;
+    margin: 5px;
+    border: 3px solid #103700;
+}
+
+.img1{
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.p3{
+    text-align: center;
+    margin-top: 0px;
+}
+
+h2{
+    text-transform: capitalize;
+    text-indent: 100px;
+}
+
+.vid{
+    display: inline-block;
+    margin: 50px;
+}
+
+video{
+    width: 300px;
+}
+
+.vid1{
+    width: 80%;
+    margin: 100px;
+    display: block;
+}
+
+

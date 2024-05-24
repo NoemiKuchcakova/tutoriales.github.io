@@ -144,6 +144,10 @@ h2{
     text-indent: 100px;
 }
 
+.h21{
+    margin-bottom: -80px;
+}
+
 .vid{
     display: inline-block;
     margin: 50px;
